@@ -1,0 +1,51 @@
+.App {
+    text-align: center;
+    font-family: "Open Sans", sans-serif;
+    color: rgb(0,0,0);
+  
+  }
+
+.text {
+    text-align: center;
+    font-family: "Open Sans", sans-serif;
+    color: rgb(255, 255, 255);
+  }
+
+.format_color{
+  font-weight: 400;
+  font-size: 16px;
+  color: rgb(112, 122, 131);
+}
+
+.h1_connect{
+  font-weight: 600;
+  font-size: 24px;
+  color: rgb(4, 17, 29);
+}
+
+.Button_connect {
+  display: inline-flex;
+  -webkit-box-align: center;
+  align-items: center;
+  font-size: 100%;
+  font-family: inherit;
+  border: 0px;
+  padding: 0px;
+  background: inherit;
+}
+
+.format_text {
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+}
+
+  
+  .center{
+    text-align: left;
+    position: center;
+    display: inline-block;
+  }
+  

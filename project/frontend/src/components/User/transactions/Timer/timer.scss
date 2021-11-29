@@ -1,0 +1,20 @@
+.countdown-timer {
+    width: 200;
+    height: 100;
+
+    font-family: "Open Sans", sans-serif;
+    font-size: 15px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.countdown-timer span {
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.two-numbers {
+    width: 2ch;
+}
